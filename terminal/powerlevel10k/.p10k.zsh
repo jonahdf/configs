@@ -58,7 +58,7 @@
     nodenv                  # node.js version from nodenv (https://github.com/nodenv/nodenv)
     nvm                     # node.js version from nvm (https://github.com/nvm-sh/nvm)
     nodeenv                 # node.js environment (https://github.com/ekalinin/nodeenv)
-    # node_version          # node.js version
+    node_version          # node.js version
     # go_version            # go version (https://golang.org)
     # rust_version          # rustc version (https://www.rust-lang.org)
     # dotnet_version        # .NET version (https://dotnet.microsoft.com)
@@ -1688,8 +1688,8 @@
   # Custom prefix.
   # typeset -g POWERLEVEL9K_TIME_PREFIX='at '
 
-  function p10k-on-post-prompt() { p10k display '1/left/*|2/left_frame|2/right_frame'=hide }
-  function p10k-on-pre-prompt()  { p10k display '1/left/*|2/left_frame|2/right_frame'=show }
+  # function p10k-on-post-prompt() { p10k display '1/left/*|2/left_frame|2/right_frame'=hide }
+  # function p10k-on-pre-prompt()  { p10k display '1/left/*|2/left_frame|2/right_frame'=show }
 
   # Example of a user-defined prompt segment. Function prompt_example will be called on every
   # prompt if `example` prompt segment is added to POWERLEVEL9K_LEFT_PROMPT_ELEMENTS or
