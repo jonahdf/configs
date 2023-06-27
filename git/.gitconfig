@@ -1,0 +1,11 @@
+[user]
+	name = Jonah Fleishhacker
+[pager]
+	branch = false
+[merge]
+    conflictstyle = diff3
+
+[alias]
+    dag = !git -P log --graph --abbrev-commit --decorate --format=format:'%C(blue)%h%C(reset) - %C(cyan)%aD%C(reset) %C(green)(%ar)%C(reset)%C(yellow)%d%C(reset)%n'' %C(white)%s%C(reset) %C(white)- %an%C(reset)' --all -n 10
+[core]
+	excludesfile = /Users/jonahdf/.gitignore
