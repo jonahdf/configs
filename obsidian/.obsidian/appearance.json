@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Typewriter",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "codeBlock"
+  ]
+}

@@ -1,0 +1,13 @@
+.theme-light {
+  --background-primary-alt: #f2e7cc;
+}
+
+code.language-output hr {
+  margin: 1em 0 1em;
+}
+
+.markdown-rendered hr {
+  border: none;
+  border-top: var(--hr-thickness) solid;
+  border-color: var(--text-muted);
+}

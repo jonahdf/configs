@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": false,
+  "newFileLocation": "root",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showLineNumber": false,
+  "userIgnoreFilters": [
+    "__code-config/"
+  ]
+}
