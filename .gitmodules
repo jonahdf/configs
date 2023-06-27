@@ -1,6 +1,6 @@
-[submodule "terminal/oh-my-zsh/custom/plugins/zsh-autosuggestions"]
-	path = terminal/oh-my-zsh/custom/plugins/zsh-autosuggestions
+[submodule "shell/oh-my-zsh/custom/plugins/zsh-autosuggestions"]
+	path = she;;/oh-my-zsh/custom/plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
-[submodule "terminal/oh-my-zsh/custom/plugins/zsh-autocomplete"]
-	path = terminal/oh-my-zsh/custom/plugins/zsh-autocomplete
+[submodule "shell/oh-my-zsh/custom/plugins/zsh-autocomplete"]
+	path = shell/oh-my-zsh/custom/plugins/zsh-autocomplete
 	url = https://github.com/marlonrichert/zsh-autocomplete
