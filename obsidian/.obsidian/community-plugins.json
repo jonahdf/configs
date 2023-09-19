@@ -4,5 +4,8 @@
   "better-word-count",
   "execute-code",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-sort-and-permute-lines"
+  "obsidian-sort-and-permute-lines",
+  "heading-level-indent",
+  "quip",
+  "obsidian-rollover-daily-todos"
 ]

@@ -6,5 +6,7 @@
   "showLineNumber": false,
   "userIgnoreFilters": [
     "__code-config/"
-  ]
+  ],
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./__attachments"
 }

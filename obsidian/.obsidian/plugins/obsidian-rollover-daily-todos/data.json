@@ -1,0 +1,6 @@
+{
+  "templateHeading": "## Tasks",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": true,
+  "rolloverChildren": false
+}
